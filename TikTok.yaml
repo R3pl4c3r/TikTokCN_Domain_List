@@ -11,4 +11,6 @@ payload:
   - DOMAIN-SUFFIX,huoshan.com
   - DOMAIN-SUFFIX,iesdouyin.com
   - DOMAIN-SUFFIX,bytecdn.cn
+  - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,dycdn
